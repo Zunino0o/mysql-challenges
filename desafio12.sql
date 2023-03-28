@@ -1,5 +1,5 @@
  SELECT 
-	COUNT(*)
+	*
 FROM
     purchase_orders
 WHERE
